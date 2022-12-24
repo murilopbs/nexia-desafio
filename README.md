@@ -65,17 +65,18 @@ Banco de dados: Postgres, MySQL ou MongoDb;
     ```
     
 # Configuração do Angular
-- Entre no diretório "frontend" e rode o comando:
+- Entre no diretório "frontendd" e rode o comando:
   - ```npm install```
 
 # Rodando o projeto
 - Entre no diretório raiz do projeto e rode o comando:
   - ```node index.js```
-- Entre no diretório "frontend" e rode o comando:
+- Entre no diretório "frontendd" e rode o comando:
   - ```ng serve -o```
 
 # Considerações
 - Deixe a porta 3000 livre para o backend (node.js)
 - Deixe a porta 4200 livre para o frontend (angular)
 - Deixe a porta 5432 livre para o banco de dados (postgres)
+- Infelizmente, algo aconteceu com o diretório "frontend" na hora de enviar para o GitHub, os arquivos do frontend est
     
